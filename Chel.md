@@ -15,6 +15,7 @@ Basic moves
 |Forward Heavy     |120  |200  |
 |Crouching Heavy   |100  |150  |
 |Jumping Heavy     |100  |200  |
+|Jumping Down Heavy|100  |200  |
 |Throw             |50   |50   |
 
 Specials
