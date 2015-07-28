@@ -2,7 +2,7 @@ Chel commands
 
 Basic moves
 
-|Move   |Damage   |Stun   |
+|Move              |Damage   |Stun   |
 |------------------|---------|-------|
 |Standing Light    |30 |50 |
 |Crouching Light   |30 |50 |
@@ -18,11 +18,12 @@ Basic moves
 
 Specials
 
-|Button | Move Name | Damage | Stun |
-|-------|-----------|--------|------|
-| α     |           |        |      |
-| β     |           |        |      |
-| γ     |           |        |      |
-| Super |           |        |      |
+|Button | Move Name      | Cooldown | Damage | Stun |
+|-------|----------------|----------|--------|------|
+| α     | Night Sun      |          |        |      |
+| β     | Crush Breeze   |          |        |      |
+| β     | Spiral Eclipse |          |        |      |
+| γ     | Dancing Wind   |          |        |      |
+| Super | Supernova      |          |        |      |
 
 Combos
