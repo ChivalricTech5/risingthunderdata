@@ -3,9 +3,9 @@ Chel commands
 Basic moves
 
 |Move   |Damage   |Stun   |
-|-------|---------|-------|
-|Standing Light    |   |   |
-|Crouching Light   |   |   |
+|------------------|---------|-------|
+|Standing Light    |30 |50 |
+|Crouching Light   |30 |50 |
 |Jump Light        |   |   |
 |Standing Medium   |   |   |
 |Forward Medium    |   |   | 
@@ -15,3 +15,10 @@ Basic moves
 |Forward Heavy     |   |   |
 |Crouching Heavy   |   |   |
 |Jumping Heavy     |   |   |
+
+Specials
+|Button | Move Name | Damage | Stun |
+|-------|-----------|--------|------|
+| α     |           |        |      |
+| β     |           |        |      |
+| γ     |           |        |      |
