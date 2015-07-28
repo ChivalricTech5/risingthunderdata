@@ -23,3 +23,6 @@ Specials
 | α     |           |        |      |
 | β     |           |        |      |
 | γ     |           |        |      |
+| Super |           |        |      |
+
+Combos
