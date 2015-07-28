@@ -17,6 +17,7 @@ Basic moves
 |Jumping Heavy     |   |   |
 
 Specials
+
 |Button | Move Name | Damage | Stun |
 |-------|-----------|--------|------|
 | α     |           |        |      |
