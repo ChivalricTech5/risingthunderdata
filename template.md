@@ -16,12 +16,12 @@ Basic Moves
 
 Specials
 
-|Button | Move Name | Damage | Stun |
-|-------|-----------|--------|------|
-| α     |           |        |      |
-| β     |           |        |      |
-| γ     |           |        |      |
-| Super |           |        |      |
+|Button | Move Name | Cooldown | Damage | Stun |
+|-------|-----------|----------|--------|------|
+| α     |           |          |        |      |
+| β     |           |          |        |      |
+| γ     |           |          |        |      |
+| Super |           |          |        |      |
 
 Combos
 
