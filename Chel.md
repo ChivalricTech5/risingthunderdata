@@ -44,4 +44,5 @@ Damage: 245 Stun: 428
 
 J.H -> F.H -> Dancing Wind -> Crush Breeze -> Advance Cancel -> Overdrive
 Damage: 383 Stun: 513
+
 (Chase from rising thunder forums)
