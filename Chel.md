@@ -44,3 +44,7 @@ Damage: 245 Stun: 428
 
 J.H -> F.H -> Dancing Wind -> Crush Breeze -> Advance Cancel -> Overdrive
 Damage: 383 Stun: 513 (Chase from rising thunder forums)
+
+F.H -> Cr.M -> Dancing Wind -> Crush Breeze -> Cr.H
+
+Crush Breeze -> L -> Jump Cancel -> Air Grab -> F.Night Sun
